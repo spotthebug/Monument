@@ -287,10 +287,14 @@ input {
     width: 100%;
   }
 
-#space-the-button {
-  margin-top:2em;
-  width: 100%;
+  #email {
+  width: 70%;
 }
+
+  #space-the-button {
+    margin-top:2em;
+    width: 70%;
+  }
 
   .comment {
     max-width: 100%;
